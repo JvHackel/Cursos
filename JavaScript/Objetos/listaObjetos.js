@@ -10,7 +10,6 @@ const cliente = {
         dependente2: "Guilherme",
 }]
 }
-
 // Inserindo novo dependente no array de dependentes
 
  cliente.dependentes.push({
